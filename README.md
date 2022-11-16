@@ -25,7 +25,7 @@ By the end of this book, you'll be well-versed with QuickBooks Online and have t
 - Generate key financial reports for accounts, customers, jobs, and invoice items
 - Understand the complete QuickBooks payroll process
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-QuickBooks%C2%AE-2023-Bookkeeping-QuickBooks/dp/1803243635) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-QuickBooks%C2%AE-2023-Bookkeeping-QuickBooks/dp/1803243635) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 **Following is what you need for this book:**
@@ -41,7 +41,7 @@ With the following software and hardware list you can run all code files present
 | 1 - 19 | QuickBooks Online   | https://quickbooks.intuit.com/   | Common System   |  Windows or MacOS  |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/BjR3m).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [<img alt="Coding" height="25" width="55"  src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif">](https://packt.link/BjR3m).
 
 
 ## Get to Know the Authors
@@ -51,5 +51,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Download a free PDF
 
 _If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
-
-[https://packt.link/free-ebook/9781803237046](https://packt.link/free-ebook/9781803243634)
+[https://packt.link/free-ebook/9781803237046](https://packt.link/free-ebook/9781803243634) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">

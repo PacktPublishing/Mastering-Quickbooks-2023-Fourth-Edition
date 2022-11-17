@@ -1,5 +1,5 @@
 # Mastering-Quickbooks-2023-Fourth-Edition
-This is the code repository for [Mastering-Quickbooks-2023-Fourth-Edition](https://www.packtpub.com/product/mastering-quickbooks-2023-fourth-edition/9781803243634), published by Packt.  
+This is the code repository for [Mastering-Quickbooks-2023-Fourth-Edition](https://www.amazon.in/Mastering-QuickBooks-2023-US-optimized-bookkeeping/dp/1803243635/), published by Packt.
 
 **Bookkeeping with US QuickBooks Online for Small Businesses**
 
@@ -40,16 +40,16 @@ With the following software and hardware list you can run all code files present
 | :---:  | :---: | :---: |:---: | :---: |
 | 1 - 19 | QuickBooks Online   | https://quickbooks.intuit.com/   | Common System   |  Windows or MacOS  |
 
-## Know more on the Discord server
+## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
-You can get more engaged on the discord server for more latest updates and discussions in the community: [<img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">](https://packt.link/QuickBooks)
+You can get more engaged on the discord server for more latest updates and discussions in the community at [https://packt.link/QuickBooks](https://packt.link/QuickBooks) 
 
-## Download a free PDF
+## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
 
 _If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
 [https://packt.link/free-ebook/9781803237046](https://packt.link/free-ebook/9781803243634) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [<img alt="Coding" height="25" width="55"  src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif">](https://packt.link/BjR3m).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at https://packt.link/BjR3m <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 ## Get to Know the Author

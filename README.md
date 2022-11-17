@@ -52,6 +52,6 @@ _If you have already purchased a print or Kindle version of this book, you can g
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [<img alt="Coding" height="25" width="55"  src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif">](https://packt.link/BjR3m).
 
 
-## Get to Know the Authors
+## Get to Know the Author
 
 **Crystalynn Shelton** is a licensed CPA and small business advisor specializing in financial accounting software training, coaching, and consulting. She has written two Amazon Bestsellers, _Mastering QuickBooks 2020_ and _Mastering QuickBooks 2021_. In addition to having experience as a small business owner, she has more than 20 years of experience in the entertainment, oil and gas, education, and computer technology fields. Crystalynn is an _Advanced Certified QuickBooks ProAdvisor_ and has taught accounting, bookkeeping, and QuickBooks courses for the last 12 years at the University of California at Los Angeles Extension. When she is not in the classroom, Crystalynn enjoys trying new restaurants and curling up with a good book!

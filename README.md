@@ -25,10 +25,36 @@ By the end of this book, you'll be well-versed with QuickBooks Online and have t
 - Generate key financial reports for accounts, customers, jobs, and invoice items
 - Understand the complete QuickBooks payroll process
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-QuickBooks%C2%AE-2023-Bookkeeping-QuickBooks/dp/1803243635) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+## Table of Contents
+### Chapters
+1. Getting Started with QuickBooks Online
+2. Company File Setup
+3. Migrating to QuickBooks Online
+4. Customizing QuickBooks for Your Business
+5. Managing Customer, Vendor, and Products and Services Lists
+6. Managing Sales Tax  
+7. Recording Sales Transactions in QuickBooks Online
+8. Recording Expenses in QuickBooks Online
+9. Reconciling Uploaded Bank and Credit Card Transactions
+10. Report Center Overview
+11. Business Overview Reports
+12. Customer Sales Reports in QuickBooks Online
+13. Vendor and Expenses Reports
+14. Managing Employees and 1099 Contractors in QuickBooks Online
+15. Closing the Books in QuickBooks Online
+16. Finding Apps and Handling Special Transactions in QuickBooks Online
+17. QuickBooks Online Advanced
+
+### Appendix
+18. Shortcuts and Test Drive
+19. QuickBooks Certified User Exam Objectives
 
 
-**Following is what you need for this book:**
+
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-QuickBooks%C2%AE-2023-Bookkeeping-QuickBooks/dp/1803243635) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
+### Following is what you need for this book: ###
 
 This book is a great way for beginners to gain confidence and expertise using QuickBooks. That said, it is also an exhaustive resource for those with some bookkeeping experience
 

@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781803243634)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Mastering-Quickbooks-2023-Fourth-Edition 
 This is the code repository for [Mastering-Quickbooks-2023-Fourth-Edition](https://www.amazon.in/Mastering-QuickBooks-2023-US-optimized-bookkeeping/dp/1803243635/), published by Packt.
 

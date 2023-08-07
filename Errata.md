@@ -7,5 +7,5 @@ In this section, under numbered bullet (3), **Account type (1)** there is a typo
 
 ## Chapter 04, page 93, Section: Merging accounts in QBO
 In this section, under numbered bullet (3), when inserting account information, there is a typo-error in the **Account name** field. It should be `Office Supplies & Software` in _Figure 4.22_.
-It will also be changed in the line below the figure. "In our example, this would be `Office Supplies & Sofware`".
+It will also be changed in the line below the figure. "In our example, this would be `Office Supplies & Software`".
 
